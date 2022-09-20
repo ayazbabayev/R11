@@ -12,8 +12,10 @@ def browser_init(context, test_name):
     """
     :param context: Behave context
     """
-    #OLD PATH: context.driver = webdriver.Chrome(r'C:\\Users\\ababa\\Desktop\\QA Automation\\PythonSeleniumAutomation\\python-selenium-automation\\chromedriver.exe')
-    context.driver = webdriver.Chrome(executable_path='./chromedriver.exe')
+    # OLD PATH:
+    context.driver = webdriver.Chrome(r'C:\Users\ababa\Desktop\QA Automation\INT\pythonProject\chromedriver.exe')
+    # context.driver = webdriver.Chrome(executable_path='./chromedriver.exe')
+    # NEW PATH:
     # context.driver = webdriver.Firefox(executable_path='./geckodriver.exe')
     # context.browser = webdriver.Safari()
     # context.browser = webdriver.Firefox()
@@ -33,7 +35,7 @@ def browser_init(context, test_name):
     context.driver.implicitly_wait(4)
     context.driver.wait = WebDriverWait(context.driver, 12)
     context.app = Application(context.driver)
-    # (7) WE IMPORTED APPLICATION in line 3 & WE ADDED IT INSIDE BEHAVE CONTEXT above.
+    # (PySelAu - 7) WE IMPORTED APPLICATION in line 3 & WE ADDED IT INSIDE BEHAVE CONTEXT above.
     # Context app will call our application.
 
 def before_scenario(context, scenario):
