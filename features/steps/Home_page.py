@@ -34,3 +34,11 @@ def click_displayed_ad_macbook(context):
 @then('Verify that user sees the advertised product in {search_word} page')
 def verify_category_page_of_advertised_product_open(context, search_word):
     context.app.product_category_page.verify_category_page_of_advertised_product_open(search_word)
+
+@when('User clicks on GetTop logo')
+def user_clicks_gettop_logo(context):
+    context.app.homepage.user_clicks_gettop_logo()
+
+@then('Verify that user reaches GetTop home page')
+def verify_user_reaches_homepage(context):
+    context.app.homepage.verify_user_reaches_homepage()
