@@ -8,9 +8,9 @@ class Page:
     def __init__(self, driver):
         self.driver = driver
         self.wait = WebDriverWait(self.driver, 5)
-        # vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+        # v !
         self.base_url = 'https://www.gettop.us'
-        # ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        # ^ !
 
     def open_url(self, end_url=''):
         self.driver.get(f'{self.base_url}{end_url}')
