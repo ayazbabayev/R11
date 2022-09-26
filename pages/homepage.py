@@ -34,5 +34,3 @@ class HomePage(Page):
 
     def click_nextslide(self):
         self.click(*self.NEXT_SLIDE)
-
-
