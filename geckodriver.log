@@ -1,0 +1,48 @@
+1664308592379	geckodriver	INFO	Listening on 127.0.0.1:61691
+1664308595421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61692" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ababa\\AppData\\Local\\Temp\\rust_mozprofile20D9zY"
+1664308596001	Marionette	INFO	Marionette enabled
+1664308596007	Marionette	INFO	Listening on port 61707
+Read port: 61707
+WebDriver BiDi listening on ws://127.0.0.1:61692
+1664308596150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ababa\\AppData\\Local\\Temp\\rust_mozprofile20D9zY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61692/devtools/browser/49ad361a-e53a-4d96-9523-32707648218f
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://gettop.us."
+1664308602971	Marionette	INFO	Stopped listening on port 61707
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1664309671324	geckodriver	INFO	Listening on 127.0.0.1:60881
+1664309674392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60882" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ababa\\AppData\\Local\\Temp\\rust_mozprofileS6N2yN"
+1664309674784	Marionette	INFO	Marionette enabled
+1664309674792	Marionette	INFO	Listening on port 60900
+Read port: 60900
+WebDriver BiDi listening on ws://127.0.0.1:60882
+1664309674918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ababa\\AppData\\Local\\Temp\\rust_mozprofileS6N2yN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60882/devtools/browser/d7a79d09-00a9-4f26-9385-81da7ed6773b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://gettop.us."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://gettop.us."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://gettop.us."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://gettop.us."
+1664309689560	Marionette	INFO	Stopped listening on port 60900
+1664328031354	geckodriver	INFO	Listening on 127.0.0.1:51649
+1664328034434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ababa\\AppData\\Local\\Temp\\rust_mozprofileClahWg"
+1664328035261	Marionette	INFO	Marionette enabled
+1664328035269	Marionette	INFO	Listening on port 51661
+Read port: 51661
+WebDriver BiDi listening on ws://127.0.0.1:51650
+1664328035476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ababa\\AppData\\Local\\Temp\\rust_mozprofileClahWg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51650/devtools/browser/f45af943-5402-4090-9222-0f3671b91637
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://gettop.us."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://gettop.us."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://gettop.us."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://gettop.us."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://gettop.us."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://gettop.us."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://gettop.us."
+1664328047293	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1664328059705	Marionette	INFO	Stopped listening on port 51661

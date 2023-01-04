@@ -2,6 +2,7 @@ from selenium.webdriver.common.by import By
 from pages.base_page import Page
 from selenium.webdriver.common.action_chains import ActionChains
 # from selenium.webdriver.support.ui import Select
+from time import sleep
 
 
 class Header(Page):
@@ -24,6 +25,7 @@ class Header(Page):
         actions.perform()
 
     def click_magnifier(self):
+        sleep(1)    # For Firefox
         self.click(*self.MAGNIFIER_ICON_SEARCH)
 
     def search_product(self, brand):

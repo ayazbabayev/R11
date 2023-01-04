@@ -1,0 +1,634 @@
+2022-09-27 12:56:04,218 - support.logger - INFO - Started scenario: User can click on GetTop logo and go to homepage
+2022-09-27 12:56:06,299 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 12:56:11,768 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 12:56:11,769 - support.logger - INFO - Started step: <when "User clicks on GetTop logo">
+2022-09-27 12:56:12,425 - support.logger - INFO - Started step: <then "Verify that user reaches GetTop home page">
+2022-09-27 12:56:32,301 - support.logger - INFO - Started scenario: User can click on GetTop logo and go to homepage
+2022-09-27 12:56:38,388 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 12:56:42,420 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 12:56:42,421 - support.logger - INFO - Started step: <when "User clicks on GetTop logo">
+2022-09-27 12:56:42,939 - support.logger - INFO - Started step: <then "Verify that user reaches GetTop home page">
+2022-09-27 13:01:32,835 - support.logger - INFO - Started scenario: User can click on GetTop logo and go to homepage
+2022-09-27 13:01:34,398 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 13:01:39,928 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 13:01:39,929 - support.logger - INFO - Started step: <when "User clicks on GetTop logo">
+2022-09-27 13:01:40,581 - support.logger - INFO - Started step: <then "Verify that user reaches GetTop home page">
+2022-09-27 13:14:31,273 - support.logger - INFO - Started scenario: User can see footer elements and interact with them
+2022-09-27 13:14:37,140 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 13:14:41,859 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 13:14:41,859 - support.logger - INFO - Started step: <when "User scrolls page to the bottom">
+2022-09-27 13:14:42,184 - support.logger - INFO - Started step: <then "User can see bestselling, latest and top rated categories">
+2022-09-27 13:14:43,421 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 11 product names">
+2022-09-27 13:14:43,425 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 12 prices">
+2022-09-27 13:14:43,428 - support.logger - INFO - Started step: <then "Verify that "Copyright 2022" shown in footer">
+2022-09-27 13:14:43,445 - support.logger - INFO - Started step: <then "Verify that Footer has button to go back to top and its functional">
+2022-09-27 13:14:44,224 - support.logger - INFO - Started step: <then "Verify that Footer has working links to all product categories">
+2022-09-27 13:15:20,878 - support.logger - INFO - Started scenario: User can see footer elements and interact with them
+2022-09-27 13:15:22,569 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 13:15:27,516 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 13:15:27,516 - support.logger - INFO - Started step: <when "User scrolls page to the bottom">
+2022-09-27 13:15:27,811 - support.logger - INFO - Started step: <then "User can see bestselling, latest and top rated categories">
+2022-09-27 13:15:28,850 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 11 product names">
+2022-09-27 13:15:28,861 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 12 prices">
+2022-09-27 13:15:28,874 - support.logger - INFO - Started step: <then "Verify that "Copyright 2022" shown in footer">
+2022-09-27 13:15:28,909 - support.logger - INFO - Started step: <then "Verify that Footer has button to go back to top and its functional">
+2022-09-27 13:15:29,530 - support.logger - INFO - Started step: <then "Verify that Footer has working links to all product categories">
+2022-09-27 13:15:54,675 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-09-27 13:15:56,260 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 13:16:01,558 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 13:16:01,559 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-27 13:16:01,852 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-09-27 13:16:04,556 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-09-27 13:16:06,964 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-09-27 13:16:08,396 - support.logger - INFO - Started step: <then "User can go back to previous page">
+2022-09-27 13:16:08,793 - support.logger - INFO - Started step: <then "Verify that user sees 2 product(s) in wishlist">
+2022-09-27 13:16:08,811 - support.logger - INFO - Started step: <then "Verify sees 4 logos for sharing options in wishlist">
+2022-09-27 13:16:10,080 - support.logger - INFO - Started step: <then "Verify that user can remove product(s) in wishlist">
+2022-09-27 13:16:16,126 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 13:18:57,206 - support.logger - INFO - Started scenario: User can see footer elements and interact with them
+2022-09-27 13:18:58,765 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 13:19:04,195 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 13:19:04,196 - support.logger - INFO - Started step: <when "User scrolls page to the bottom">
+2022-09-27 13:19:04,486 - support.logger - INFO - Started step: <then "User can see bestselling, latest and top rated categories">
+2022-09-27 13:19:05,494 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 11 product names">
+2022-09-27 13:19:05,506 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 12 prices">
+2022-09-27 13:19:05,519 - support.logger - INFO - Started step: <then "Verify that "Copyright 2022" shown in footer">
+2022-09-27 13:19:05,566 - support.logger - INFO - Started step: <then "Verify that Footer has button to go back to top and its functional">
+2022-09-27 13:19:06,192 - support.logger - INFO - Started step: <then "Verify that Footer has working links to all product categories">
+2022-09-27 13:20:03,946 - support.logger - INFO - Started scenario: User can go to login and see login window pop up
+2022-09-27 13:20:08,740 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 13:20:11,908 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 13:20:11,908 - support.logger - INFO - Started step: <when "User clicks on account icon">
+2022-09-27 13:20:15,934 - support.logger - ERROR - Step failed: <when "User clicks on account icon">
+2022-09-27 13:20:27,660 - support.logger - INFO - Started scenario: User can go to login and see login window pop up
+2022-09-27 13:20:32,515 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 13:20:33,409 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 13:20:33,410 - support.logger - INFO - Started step: <when "User clicks on account icon">
+2022-09-27 13:20:37,455 - support.logger - ERROR - Step failed: <when "User clicks on account icon">
+2022-09-27 13:21:06,269 - support.logger - INFO - Started scenario: User can go to login and see login window pop up
+2022-09-27 13:21:07,460 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 13:21:08,338 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 13:21:08,339 - support.logger - INFO - Started step: <when "User clicks on account icon">
+2022-09-27 13:21:12,356 - support.logger - ERROR - Step failed: <when "User clicks on account icon">
+2022-09-27 13:24:16,126 - support.logger - INFO - Started scenario: User can go to login and see login window pop up
+2022-09-27 13:24:17,636 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 13:24:23,166 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 13:24:23,166 - support.logger - INFO - Started step: <when "User clicks on account icon">
+2022-09-27 13:24:23,222 - support.logger - INFO - Started step: <then "Verify that LOGIN window pops up over home page">
+2022-09-27 13:26:27,494 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-27 13:26:29,106 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-27 13:26:33,017 - support.logger - INFO - Open URL https://www.gettop.us/my-account/wishlist/.......
+2022-09-27 13:26:33,017 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 13:26:52,213 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-09-27 13:26:53,452 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 13:26:54,324 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 13:26:54,324 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-27 13:26:58,392 - support.logger - ERROR - Step failed: <when "User hovers over search icon on main page">
+2022-09-27 14:38:25,892 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-09-27 14:38:27,188 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 14:38:30,456 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 14:38:30,457 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-27 14:38:34,531 - support.logger - ERROR - Step failed: <when "User hovers over search icon on main page">
+2022-09-27 14:38:42,664 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-27 14:38:43,824 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-27 14:38:44,378 - support.logger - INFO - Open URL https://www.gettop.us/my-account/wishlist/.......
+2022-09-27 14:38:44,379 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 14:38:48,466 - support.logger - ERROR - Step failed: <then "Verify that user sees empty wishlist">
+2022-09-27 14:40:48,625 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-27 14:40:49,775 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-27 14:40:50,343 - support.logger - INFO - Open URL https://www.gettop.us/my-account/wishlist/.......
+2022-09-27 14:40:50,344 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 14:40:54,399 - support.logger - ERROR - Step failed: <then "Verify that user sees empty wishlist">
+2022-09-27 14:41:17,268 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-27 14:41:18,441 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-27 14:41:19,367 - support.logger - INFO - Open URL https://www.gettop.us/my-account/wishlist/.......
+2022-09-27 14:41:19,368 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 14:41:23,400 - support.logger - ERROR - Step failed: <then "Verify that user sees empty wishlist">
+2022-09-27 14:41:38,577 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-27 14:41:39,703 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-27 14:41:40,695 - support.logger - INFO - Open URL https://www.gettop.us/my-account/wishlist/.......
+2022-09-27 14:41:40,695 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 14:41:44,752 - support.logger - ERROR - Step failed: <then "Verify that user sees empty wishlist">
+2022-09-27 15:03:46,592 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-27 15:03:47,955 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-27 15:03:51,272 - support.logger - INFO - Open URL https://www.gettop.us/my-account/wishlist/.......
+2022-09-27 15:03:51,273 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 15:03:55,346 - support.logger - ERROR - Step failed: <then "Verify that user sees empty wishlist">
+2022-09-27 15:04:37,779 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-27 15:04:38,974 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-27 15:04:39,913 - support.logger - INFO - Open URL https://www.gettop.us/my-account/wishlist/.......
+2022-09-27 15:04:39,914 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 15:04:43,929 - support.logger - ERROR - Step failed: <then "Verify that user sees empty wishlist">
+2022-09-27 15:05:48,124 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-27 15:05:49,375 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-27 15:05:50,318 - support.logger - INFO - Open URL https://www.gettop.us/my-account/wishlist/.......
+2022-09-27 15:05:50,318 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 15:05:54,361 - support.logger - ERROR - Step failed: <then "Verify that user sees empty wishlist">
+2022-09-27 15:07:47,414 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-27 15:07:48,727 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-27 15:07:49,277 - support.logger - INFO - Open URL https://www.gettop.us/my-account/wishlist/.......
+2022-09-27 15:07:49,278 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 15:07:53,320 - support.logger - ERROR - Step failed: <then "Verify that user sees empty wishlist">
+2022-09-27 17:45:09,264 - support.logger - INFO - Started scenario: User can go to login and see login window pop up
+2022-09-27 17:45:14,163 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 17:45:18,563 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 17:45:18,564 - support.logger - INFO - Started step: <when "User clicks on account icon">
+2022-09-27 17:45:18,782 - support.logger - INFO - Started step: <then "Verify that LOGIN window pops up over home page">
+2022-09-27 17:46:47,860 - support.logger - INFO - Started scenario: User can click on GetTop logo and go to homepage
+2022-09-27 17:46:51,109 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 17:46:55,288 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 17:46:55,289 - support.logger - INFO - Started step: <when "User clicks on GetTop logo">
+2022-09-27 17:46:56,163 - support.logger - INFO - Started step: <then "Verify that user reaches GetTop home page">
+2022-09-27 17:54:05,304 - support.logger - INFO - Started scenario: User can go to login and see login window pop up
+2022-09-27 17:54:10,458 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 17:54:14,437 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 17:54:14,437 - support.logger - INFO - Started step: <when "User clicks on account icon">
+2022-09-27 17:54:14,676 - support.logger - INFO - Started step: <then "Verify that LOGIN window pops up over home page">
+2022-09-27 17:55:37,672 - support.logger - INFO - Started scenario: User can click on GetTop logo and go to homepage
+2022-09-27 17:55:40,985 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 17:55:45,146 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 17:55:45,147 - support.logger - INFO - Started step: <when "User clicks on GetTop logo">
+2022-09-27 17:55:45,967 - support.logger - INFO - Started step: <then "Verify that user reaches GetTop home page">
+2022-09-27 17:56:46,627 - support.logger - INFO - Started scenario: User can click on GetTop logo and go to homepage
+2022-09-27 17:56:49,918 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 17:56:53,558 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 17:56:53,559 - support.logger - INFO - Started step: <when "User clicks on GetTop logo">
+2022-09-27 17:56:54,267 - support.logger - INFO - Started step: <then "Verify that user reaches GetTop home page">
+2022-09-27 18:00:38,277 - support.logger - INFO - Started scenario: User can see footer elements and interact with them
+2022-09-27 18:00:43,867 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 18:00:47,589 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 18:00:47,591 - support.logger - INFO - Started step: <when "User scrolls page to the bottom">
+2022-09-27 18:00:48,155 - support.logger - INFO - Started step: <then "User can see bestselling, latest and top rated categories">
+2022-09-27 18:00:50,413 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 11 product names">
+2022-09-27 18:00:50,462 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 12 prices">
+2022-09-27 18:00:50,540 - support.logger - INFO - Started step: <then "Verify that "Copyright 2022" shown in footer">
+2022-09-27 18:00:50,782 - support.logger - INFO - Started step: <then "Verify that Footer has button to go back to top and its functional">
+2022-09-27 18:00:51,967 - support.logger - INFO - Started step: <then "Verify that Footer has working links to all product categories">
+2022-09-27 18:02:17,983 - support.logger - INFO - Started scenario: User can use price filter to select the desired price.
+2022-09-27 18:02:25,704 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 18:02:29,474 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 18:02:29,475 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-27 18:02:29,935 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-09-27 18:02:32,494 - support.logger - INFO - Started step: <then "Verify that user can set price with left slider">
+2022-09-27 18:02:34,747 - support.logger - INFO - Started step: <then "Verify that user can set price with right slider">
+2022-09-27 18:02:36,589 - support.logger - INFO - Started step: <then "Verify that active filter shows min and max">
+2022-09-27 18:02:36,906 - support.logger - INFO - Started step: <then "Verify that active filters reset when user clicks on min and max">
+2022-09-27 18:04:27,061 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-09-27 18:04:31,381 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 18:04:35,075 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 18:04:35,077 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-27 18:04:35,650 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-09-27 18:04:38,140 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-09-27 18:04:41,474 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-09-27 18:04:42,956 - support.logger - INFO - Started step: <then "User can go back to previous page">
+2022-09-27 18:04:43,423 - support.logger - INFO - Started step: <then "Verify that user sees 2 product(s) in wishlist">
+2022-09-27 18:04:43,489 - support.logger - INFO - Started step: <then "Verify sees 4 logos for sharing options in wishlist">
+2022-09-27 18:04:46,462 - support.logger - INFO - Started step: <then "Verify that user can remove product(s) in wishlist">
+2022-09-27 18:04:53,047 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 18:06:46,695 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-27 18:06:51,320 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-27 18:06:54,738 - support.logger - INFO - Open URL https://www.gettop.us/my-account/wishlist/.......
+2022-09-27 18:06:54,739 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 18:19:08,731 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-09-27 18:20:31,241 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-09-27 18:20:37,761 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 18:20:41,721 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 18:20:41,721 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-27 18:20:42,015 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-09-27 18:20:44,716 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-09-27 18:20:46,822 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-09-27 18:20:49,328 - support.logger - INFO - Started step: <then "User can go back to previous page">
+2022-09-27 18:20:49,819 - support.logger - INFO - Started step: <then "Verify that user sees 2 product(s) in wishlist">
+2022-09-27 18:20:49,828 - support.logger - INFO - Started step: <then "Verify sees 4 logos for sharing options in wishlist">
+2022-09-27 18:20:51,177 - support.logger - INFO - Started step: <then "Verify that user can remove product(s) in wishlist">
+2022-09-27 18:20:59,660 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 18:30:57,096 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-09-27 18:30:58,614 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 18:31:03,493 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 18:31:03,494 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-27 18:31:03,800 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-09-27 18:31:06,708 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-09-27 18:31:08,860 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-09-27 18:31:12,885 - support.logger - ERROR - Step failed: <then "User can click the product in wishlist and go to product page">
+2022-09-27 18:31:28,962 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-09-27 18:31:30,348 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 18:31:35,050 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 18:31:35,052 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-27 18:31:35,352 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-09-27 18:31:37,996 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-09-27 18:31:40,568 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-09-27 18:31:42,341 - support.logger - INFO - Started step: <then "User can go back to previous page">
+2022-09-27 18:31:42,766 - support.logger - INFO - Started step: <then "Verify that user sees 2 product(s) in wishlist">
+2022-09-27 18:31:42,782 - support.logger - INFO - Started step: <then "Verify sees 4 logos for sharing options in wishlist">
+2022-09-27 18:31:44,337 - support.logger - INFO - Started step: <then "Verify that user can remove product(s) in wishlist">
+2022-09-27 18:31:50,500 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 18:31:55,231 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-09-27 18:31:56,585 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 18:32:01,483 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 18:32:01,485 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-27 18:32:01,804 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-09-27 18:32:04,748 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-09-27 18:32:07,329 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-09-27 18:32:09,274 - support.logger - INFO - Started step: <then "User can go back to previous page">
+2022-09-27 18:32:09,692 - support.logger - INFO - Started step: <then "Verify that user sees 2 product(s) in wishlist">
+2022-09-27 18:32:09,706 - support.logger - INFO - Started step: <then "Verify sees 4 logos for sharing options in wishlist">
+2022-09-27 18:32:11,232 - support.logger - INFO - Started step: <then "Verify that user can remove product(s) in wishlist">
+2022-09-27 18:32:17,375 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 18:32:27,969 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-09-27 18:32:29,400 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 18:32:33,748 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 18:32:33,750 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-27 18:32:34,047 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-09-27 18:32:36,710 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-09-27 18:32:39,231 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-09-27 18:32:41,118 - support.logger - INFO - Started step: <then "User can go back to previous page">
+2022-09-27 18:32:41,574 - support.logger - INFO - Started step: <then "Verify that user sees 2 product(s) in wishlist">
+2022-09-27 18:32:41,589 - support.logger - INFO - Started step: <then "Verify sees 4 logos for sharing options in wishlist">
+2022-09-27 18:32:43,130 - support.logger - INFO - Started step: <then "Verify that user can remove product(s) in wishlist">
+2022-09-27 18:32:49,265 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-27 18:32:55,090 - support.logger - INFO - Started scenario: User can use price filter to select the desired price.
+2022-09-27 18:32:56,523 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 18:33:01,288 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 18:33:01,291 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-27 18:33:01,586 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-09-27 18:33:04,468 - support.logger - INFO - Started step: <then "Verify that user can set price with left slider">
+2022-09-27 18:33:06,221 - support.logger - INFO - Started step: <then "Verify that user can set price with right slider">
+2022-09-27 18:33:07,505 - support.logger - INFO - Started step: <then "Verify that active filter shows min and max">
+2022-09-27 18:33:07,537 - support.logger - INFO - Started step: <then "Verify that active filters reset when user clicks on min and max">
+2022-09-27 18:33:22,842 - support.logger - INFO - Started scenario: User can use price filter to select the desired price.
+2022-09-27 18:33:24,186 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 18:33:28,513 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 18:33:28,514 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-27 18:33:28,816 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-09-27 18:33:31,441 - support.logger - INFO - Started step: <then "Verify that user can set price with left slider">
+2022-09-27 18:33:33,256 - support.logger - INFO - Started step: <then "Verify that user can set price with right slider">
+2022-09-27 18:33:34,575 - support.logger - INFO - Started step: <then "Verify that active filter shows min and max">
+2022-09-27 18:33:34,612 - support.logger - INFO - Started step: <then "Verify that active filters reset when user clicks on min and max">
+2022-09-27 18:38:08,040 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-09-27 18:38:16,205 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-27 18:38:19,925 - support.logger - INFO - Open URL https://www.gettop.us.......
+2022-09-27 18:38:19,926 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-27 18:38:20,542 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-09-27 18:38:23,040 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-09-27 18:38:26,215 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-09-27 18:38:27,748 - support.logger - INFO - Started step: <then "User can go back to previous page">
+2022-09-27 18:38:28,221 - support.logger - INFO - Started step: <then "Verify that user sees 2 product(s) in wishlist">
+2022-09-27 18:38:28,376 - support.logger - INFO - Started step: <then "Verify sees 4 logos for sharing options in wishlist">
+2022-09-27 18:38:31,157 - support.logger - INFO - Started step: <then "Verify that user can remove product(s) in wishlist">
+2022-09-27 18:38:37,714 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-28 11:23:37,970 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-28 11:23:54,461 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-28 11:23:55,288 - support.logger - ERROR - Step failed: <given "Open GetTop Wishlist page">
+2022-09-28 11:24:29,622 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-28 11:24:42,495 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-28 11:24:43,295 - support.logger - ERROR - Step failed: <given "Open GetTop Wishlist page">
+2022-09-28 11:25:08,558 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-28 11:25:17,976 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-28 11:25:18,725 - support.logger - ERROR - Step failed: <given "Open GetTop Wishlist page">
+2022-09-28 11:25:46,810 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-28 11:25:56,423 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-28 11:25:57,245 - support.logger - ERROR - Step failed: <given "Open GetTop Wishlist page">
+2022-09-28 12:06:31,354 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-28 12:06:41,990 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-28 12:06:42,965 - support.logger - ERROR - Step failed: <given "Open GetTop Wishlist page">
+2022-09-28 12:07:37,311 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-28 12:07:44,264 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-28 12:07:45,221 - support.logger - ERROR - Step failed: <given "Open GetTop Wishlist page">
+2022-09-28 12:08:24,885 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-28 12:08:32,072 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-28 12:08:32,780 - support.logger - ERROR - Step failed: <given "Open GetTop Wishlist page">
+2022-09-28 12:09:46,953 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-28 12:09:55,840 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-28 12:09:58,618 - support.logger - INFO - Open URL http://www.gettop.us/my-account/wishlist/.......
+2022-09-28 12:09:58,619 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-28 12:12:16,892 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-28 12:12:23,252 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-28 12:12:26,579 - support.logger - INFO - Open URL http://www.gettop.us/my-account/wishlist/.......
+2022-09-28 12:12:26,579 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-28 12:16:35,424 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-28 12:16:48,639 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-28 12:16:54,252 - support.logger - INFO - Open URL http://www.gettop.us/my-account/wishlist/.......
+2022-09-28 12:16:54,253 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-28 12:19:15,489 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-28 12:19:23,992 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-28 12:19:27,611 - support.logger - INFO - Open URL http://www.gettop.us/my-account/wishlist/.......
+2022-09-28 12:19:27,611 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-28 12:24:21,036 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-28 12:24:30,422 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-28 12:24:34,207 - support.logger - INFO - Open URL http://www.gettop.us/my-account/wishlist/.......
+2022-09-28 12:24:34,208 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-28 12:26:31,630 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-28 12:26:40,376 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-28 12:26:43,961 - support.logger - INFO - Open URL http://www.gettop.us/my-account/wishlist/.......
+2022-09-28 12:26:43,964 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-28 12:31:36,743 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-28 12:31:44,361 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-28 12:31:48,161 - support.logger - INFO - Open URL http://www.gettop.us/my-account/wishlist/.......
+2022-09-28 12:31:48,162 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-29 14:28:52,737 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-09-29 14:28:57,996 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 14:29:02,002 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 14:29:02,002 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-29 14:29:02,709 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-09-29 14:29:05,438 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-09-29 14:29:08,542 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-09-29 14:29:12,734 - support.logger - ERROR - Step failed: <then "User can click the product in wishlist and go to product page">
+2022-09-29 14:29:13,926 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-29 14:29:21,762 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-29 14:29:25,250 - support.logger - INFO - Open URL http://www.gettop.us/my-account/wishlist/.......
+2022-09-29 14:29:25,250 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-29 14:32:31,523 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-09-29 14:32:35,285 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 14:32:39,214 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 14:32:39,215 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-29 14:32:39,533 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-09-29 14:32:42,226 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-09-29 14:32:44,681 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-09-29 14:32:46,369 - support.logger - INFO - Started step: <then "User can go back to previous page">
+2022-09-29 14:32:46,773 - support.logger - INFO - Started step: <then "Verify that user sees 2 product(s) in wishlist">
+2022-09-29 14:32:46,791 - support.logger - INFO - Started step: <then "Verify sees 4 logos for sharing options in wishlist">
+2022-09-29 14:32:48,090 - support.logger - INFO - Started step: <then "Verify that user can remove product(s) in wishlist">
+2022-09-29 14:32:54,115 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-29 14:33:23,503 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-09-29 14:33:25,003 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 14:33:29,168 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 14:33:29,168 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-29 14:33:29,474 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-09-29 14:33:32,207 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-09-29 14:33:34,562 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-09-29 14:33:36,130 - support.logger - INFO - Started step: <then "User can go back to previous page">
+2022-09-29 14:33:36,534 - support.logger - INFO - Started step: <then "Verify that user sees 2 product(s) in wishlist">
+2022-09-29 14:33:36,552 - support.logger - INFO - Started step: <then "Verify sees 4 logos for sharing options in wishlist">
+2022-09-29 14:33:37,815 - support.logger - INFO - Started step: <then "Verify that user can remove product(s) in wishlist">
+2022-09-29 14:33:43,861 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-29 14:33:46,247 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-09-29 14:33:47,721 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-09-29 14:33:51,766 - support.logger - INFO - Open URL http://www.gettop.us/my-account/wishlist/.......
+2022-09-29 14:33:51,766 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-09-29 14:35:46,388 - support.logger - INFO - Started scenario: User can go to login and see login window pop up
+2022-09-29 14:35:47,910 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 14:35:52,495 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 14:35:52,496 - support.logger - INFO - Started step: <when "User clicks on account icon">
+2022-09-29 14:35:52,555 - support.logger - INFO - Started step: <then "Verify that LOGIN window pops up over home page">
+2022-09-29 14:35:54,988 - support.logger - INFO - Started scenario: User can click on GetTop logo and go to homepage
+2022-09-29 14:35:56,513 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 14:36:01,392 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 14:36:01,392 - support.logger - INFO - Started step: <when "User clicks on GetTop logo">
+2022-09-29 14:36:02,003 - support.logger - INFO - Started step: <then "Verify that user reaches GetTop home page">
+2022-09-29 14:36:04,400 - support.logger - INFO - Started scenario: User can see footer elements and interact with them
+2022-09-29 14:36:05,975 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 14:36:11,318 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 14:36:11,319 - support.logger - INFO - Started step: <when "User scrolls page to the bottom">
+2022-09-29 14:36:11,620 - support.logger - INFO - Started step: <then "User can see bestselling, latest and top rated categories">
+2022-09-29 14:36:12,658 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 11 product names">
+2022-09-29 14:36:12,666 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 12 prices">
+2022-09-29 14:36:12,681 - support.logger - INFO - Started step: <then "Verify that "Copyright 2022" shown in footer">
+2022-09-29 14:36:12,720 - support.logger - INFO - Started step: <then "Verify that Footer has button to go back to top and its functional">
+2022-09-29 14:36:13,343 - support.logger - INFO - Started step: <then "Verify that Footer has working links to all product categories">
+2022-09-29 16:40:21,187 - support.logger - INFO - Started scenario: User can navigate to product category
+2022-09-29 16:40:25,751 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 16:40:29,423 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 16:40:29,424 - support.logger - INFO - Started step: <when "User clicks on LAPTOPS category">
+2022-09-29 16:40:30,900 - support.logger - INFO - Started step: <then "Verify that user sees the LAPTOP category page">
+2022-09-29 16:49:10,352 - support.logger - INFO - Started scenario: User can use price filter to select the desired price.
+2022-09-29 16:49:11,844 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 16:49:16,047 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 16:49:16,048 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-09-29 16:49:16,349 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-09-29 16:49:18,932 - support.logger - INFO - Started step: <then "Verify that user can set price with left slider">
+2022-09-29 16:49:20,397 - support.logger - INFO - Started step: <then "Verify that user can set price with right slider">
+2022-09-29 16:49:21,495 - support.logger - INFO - Started step: <then "Verify that active filter shows min and max">
+2022-09-29 16:49:21,519 - support.logger - INFO - Started step: <then "Verify that active filters reset when user clicks on min and max">
+2022-09-29 18:11:57,660 - support.logger - INFO - Started scenario: User can go to login and see login window pop up
+2022-09-29 18:12:01,163 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:12:05,618 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:12:05,618 - support.logger - INFO - Started step: <when "User clicks on account icon">
+2022-09-29 18:12:05,841 - support.logger - INFO - Started step: <then "Verify that LOGIN window pops up over home page">
+2022-09-29 18:12:09,046 - support.logger - INFO - Started scenario: User can click on GetTop logo and go to homepage
+2022-09-29 18:12:11,632 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:12:15,406 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:12:15,408 - support.logger - INFO - Started step: <when "User clicks on GetTop logo">
+2022-09-29 18:12:16,569 - support.logger - INFO - Started step: <then "Verify that user reaches GetTop home page">
+2022-09-29 18:12:19,457 - support.logger - INFO - Started scenario: User can see footer elements and interact with them
+2022-09-29 18:12:22,072 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:12:25,806 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:12:25,807 - support.logger - INFO - Started step: <when "User scrolls page to the bottom">
+2022-09-29 18:12:26,533 - support.logger - INFO - Started step: <then "User can see bestselling, latest and top rated categories">
+2022-09-29 18:12:28,110 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 11 product names">
+2022-09-29 18:12:28,152 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 12 prices">
+2022-09-29 18:12:28,193 - support.logger - INFO - Started step: <then "Verify that "Copyright 2022" shown in footer">
+2022-09-29 18:12:28,331 - support.logger - INFO - Started step: <then "Verify that Footer has button to go back to top and its functional">
+2022-09-29 18:12:29,251 - support.logger - INFO - Started step: <then "Verify that Footer has working links to all product categories">
+2022-09-29 18:12:39,399 - support.logger - INFO - Started scenario: User can click and view advertised Ipad on main page.
+2022-09-29 18:12:42,060 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:12:45,896 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:12:45,898 - support.logger - INFO - Started step: <when "User clicks on Ipad Pro ad">
+2022-09-29 18:12:45,932 - support.logger - ERROR - Step failed: <when "User clicks on Ipad Pro ad">
+2022-09-29 18:12:48,681 - support.logger - INFO - Started scenario: User can click and view advertised MacBook on main page.
+2022-09-29 18:12:51,281 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:12:55,396 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:12:55,397 - support.logger - INFO - Started step: <when "User clicks to next slide on ad banner">
+2022-09-29 18:12:55,400 - support.logger - ERROR - Step failed: <when "User clicks to next slide on ad banner">
+2022-09-29 18:14:53,330 - support.logger - INFO - Started scenario: User can click and view advertised Ipad on main page.
+2022-09-29 18:14:56,006 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:15:00,225 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:15:00,227 - support.logger - INFO - Started step: <when "User clicks on Ipad Pro ad">
+2022-09-29 18:15:00,233 - support.logger - ERROR - Step failed: <when "User clicks on Ipad Pro ad">
+2022-09-29 18:15:21,937 - support.logger - INFO - Started scenario: User can click and view advertised Ipad on main page.
+2022-09-29 18:15:24,592 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:15:28,342 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:15:28,345 - support.logger - INFO - Started step: <when "User clicks on Ipad Pro ad">
+2022-09-29 18:15:28,352 - support.logger - ERROR - Step failed: <when "User clicks on Ipad Pro ad">
+2022-09-29 18:28:01,001 - support.logger - INFO - Started scenario: User can go to login and see login window pop up
+2022-09-29 18:28:03,660 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:28:07,637 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:28:07,639 - support.logger - INFO - Started step: <when "User clicks on account icon">
+2022-09-29 18:28:07,873 - support.logger - INFO - Started step: <then "Verify that LOGIN window pops up over home page">
+2022-09-29 18:28:08,015 - support.logger - INFO - Started scenario: User can click on GetTop logo and go to homepage
+2022-09-29 18:28:10,726 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:28:14,625 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:28:14,627 - support.logger - INFO - Started step: <when "User clicks on GetTop logo">
+2022-09-29 18:28:15,703 - support.logger - INFO - Started step: <then "Verify that user reaches GetTop home page">
+2022-09-29 18:28:15,833 - support.logger - INFO - Started scenario: User can see footer elements and interact with them
+2022-09-29 18:28:18,633 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:28:22,683 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:28:22,684 - support.logger - INFO - Started step: <when "User scrolls page to the bottom">
+2022-09-29 18:28:23,071 - support.logger - INFO - Started step: <then "User can see bestselling, latest and top rated categories">
+2022-09-29 18:28:24,781 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 11 product names">
+2022-09-29 18:28:24,840 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 12 prices">
+2022-09-29 18:28:24,891 - support.logger - INFO - Started step: <then "Verify that "Copyright 2022" shown in footer">
+2022-09-29 18:28:25,039 - support.logger - INFO - Started step: <then "Verify that Footer has button to go back to top and its functional">
+2022-09-29 18:28:25,995 - support.logger - INFO - Started step: <then "Verify that Footer has working links to all product categories">
+2022-09-29 18:30:44,077 - support.logger - INFO - Started scenario: User can go to login and see login window pop up
+2022-09-29 18:30:46,795 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:30:50,866 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:30:50,867 - support.logger - INFO - Started step: <when "User clicks on account icon">
+2022-09-29 18:30:51,093 - support.logger - INFO - Started step: <then "Verify that LOGIN window pops up over home page">
+2022-09-29 18:30:51,234 - support.logger - INFO - Started scenario: User can click on GetTop logo and go to homepage
+2022-09-29 18:30:53,999 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:30:57,945 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:30:57,946 - support.logger - INFO - Started step: <when "User clicks on GetTop logo">
+2022-09-29 18:30:59,000 - support.logger - INFO - Started step: <then "Verify that user reaches GetTop home page">
+2022-09-29 18:30:59,162 - support.logger - INFO - Started scenario: User can see footer elements and interact with them
+2022-09-29 18:31:01,887 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:31:06,646 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:31:06,647 - support.logger - INFO - Started step: <when "User scrolls page to the bottom">
+2022-09-29 18:31:07,062 - support.logger - INFO - Started step: <then "User can see bestselling, latest and top rated categories">
+2022-09-29 18:31:09,150 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 11 product names">
+2022-09-29 18:31:09,207 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 12 prices">
+2022-09-29 18:31:09,267 - support.logger - INFO - Started step: <then "Verify that "Copyright 2022" shown in footer">
+2022-09-29 18:31:09,452 - support.logger - INFO - Started step: <then "Verify that Footer has button to go back to top and its functional">
+2022-09-29 18:31:10,496 - support.logger - INFO - Started step: <then "Verify that Footer has working links to all product categories">
+2022-09-29 18:36:10,996 - support.logger - INFO - Started scenario: User can go to login and see login window pop up
+2022-09-29 18:36:13,625 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:36:17,339 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:36:17,340 - support.logger - INFO - Started step: <when "User clicks on account icon">
+2022-09-29 18:36:17,570 - support.logger - INFO - Started step: <then "Verify that LOGIN window pops up over home page">
+2022-09-29 18:36:21,834 - support.logger - INFO - Started scenario: User can click on GetTop logo and go to homepage
+2022-09-29 18:36:24,420 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:36:28,107 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:36:28,109 - support.logger - INFO - Started step: <when "User clicks on GetTop logo">
+2022-09-29 18:36:29,130 - support.logger - INFO - Started step: <then "Verify that user reaches GetTop home page">
+2022-09-29 18:36:33,486 - support.logger - INFO - Started scenario: User can see footer elements and interact with them
+2022-09-29 18:36:36,059 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-09-29 18:36:39,775 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-09-29 18:36:39,776 - support.logger - INFO - Started step: <when "User scrolls page to the bottom">
+2022-09-29 18:36:40,441 - support.logger - INFO - Started step: <then "User can see bestselling, latest and top rated categories">
+2022-09-29 18:36:41,937 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 11 product names">
+2022-09-29 18:36:41,976 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 12 prices">
+2022-09-29 18:36:42,011 - support.logger - INFO - Started step: <then "Verify that "Copyright 2022" shown in footer">
+2022-09-29 18:36:42,131 - support.logger - INFO - Started step: <then "Verify that Footer has button to go back to top and its functional">
+2022-09-29 18:36:42,995 - support.logger - INFO - Started step: <then "Verify that Footer has working links to all product categories">
+2022-10-06 19:10:10,482 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-10-06 19:10:14,128 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-10-06 19:10:17,876 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-10-06 19:10:17,877 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-10-06 19:10:18,192 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-10-06 19:10:21,251 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-10-06 19:10:23,618 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-10-06 19:10:25,243 - support.logger - INFO - Started step: <then "User can go back to previous page">
+2022-10-06 19:10:25,622 - support.logger - INFO - Started step: <then "Verify that user sees 2 product(s) in wishlist">
+2022-10-06 19:10:25,640 - support.logger - INFO - Started step: <then "Verify sees 4 logos for sharing options in wishlist">
+2022-10-06 19:10:27,018 - support.logger - INFO - Started step: <then "Verify that user can remove product(s) in wishlist">
+2022-10-06 19:10:33,130 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-10-06 19:12:55,246 - support.logger - INFO - Started scenario: User can go to login and see login window pop up
+2022-10-06 19:12:56,704 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-10-06 19:13:00,306 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-10-06 19:13:00,307 - support.logger - INFO - Started step: <when "User clicks on account icon">
+2022-10-06 19:13:00,398 - support.logger - INFO - Started step: <then "Verify that LOGIN window pops up over home page">
+2022-10-06 19:13:03,343 - support.logger - INFO - Started scenario: User can click on GetTop logo and go to homepage
+2022-10-06 19:13:04,640 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-10-06 19:13:08,811 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-10-06 19:13:08,812 - support.logger - INFO - Started step: <when "User clicks on GetTop logo">
+2022-10-06 19:13:09,407 - support.logger - INFO - Started step: <then "Verify that user reaches GetTop home page">
+2022-10-06 19:13:12,113 - support.logger - INFO - Started scenario: User can see footer elements and interact with them
+2022-10-06 19:13:13,417 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-10-06 19:13:17,206 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-10-06 19:13:17,207 - support.logger - INFO - Started step: <when "User scrolls page to the bottom">
+2022-10-06 19:13:17,603 - support.logger - INFO - Started step: <then "User can see bestselling, latest and top rated categories">
+2022-10-06 19:13:18,827 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 11 product names">
+2022-10-06 19:13:18,847 - support.logger - INFO - Started step: <then "Verify that bestselling, latest and top rated section have 12 prices">
+2022-10-06 19:13:18,866 - support.logger - INFO - Started step: <then "Verify that "Copyright 2022" shown in footer">
+2022-10-06 19:13:18,931 - support.logger - INFO - Started step: <then "Verify that Footer has button to go back to top and its functional">
+2022-10-06 19:13:19,665 - support.logger - INFO - Started step: <then "Verify that Footer has working links to all product categories">
+2022-10-13 12:23:08,977 - support.logger - INFO - Started scenario: User can go to login and see login window pop up
+2022-10-13 12:23:11,156 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-10-13 12:23:15,583 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-10-13 12:23:15,584 - support.logger - INFO - Started step: <when "User clicks on account icon">
+2022-10-13 12:23:15,654 - support.logger - INFO - Started step: <then "Verify that LOGIN window pops up over home page">
+2022-10-13 13:33:57,734 - support.logger - INFO - Started scenario: User can navigate to product category
+2022-10-13 13:33:59,101 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-10-13 13:34:03,196 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-10-13 13:34:03,197 - support.logger - INFO - Started step: <when "User clicks on LAPTOPS category">
+2022-10-13 13:34:04,468 - support.logger - INFO - Started step: <then "Verify that user sees the LAPTOP category page">
+2022-10-13 13:34:13,093 - support.logger - INFO - Started scenario: User can use price filter to select the desired price.
+2022-10-13 13:34:14,453 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-10-13 13:34:18,096 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-10-13 13:34:18,096 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-10-13 13:34:18,389 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-10-13 13:34:21,044 - support.logger - INFO - Started step: <then "Verify that user can set price with left slider">
+2022-10-13 13:34:22,537 - support.logger - INFO - Started step: <then "Verify that user can set price with right slider">
+2022-10-13 13:34:23,665 - support.logger - INFO - Started step: <then "Verify that active filter shows min and max">
+2022-10-13 13:34:23,692 - support.logger - INFO - Started step: <then "Verify that active filters reset when user clicks on min and max">
+2022-10-13 13:53:05,748 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-10-13 13:53:07,136 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-10-13 13:53:10,912 - support.logger - INFO - Open URL http://www.gettop.us/my-account/wishlist/.......
+2022-10-13 13:53:10,913 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-10-13 15:50:00,544 - support.logger - INFO - Started scenario: User can click on GetTop logo and go to homepage
+2022-10-13 15:50:02,788 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-10-13 15:50:07,263 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-10-13 15:50:07,263 - support.logger - INFO - Started step: <when "User clicks on GetTop logo">
+2022-10-13 15:50:08,065 - support.logger - INFO - Started step: <then "Verify that user reaches GetTop home page">
+2022-10-13 15:50:29,452 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-10-13 15:50:31,238 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-10-13 15:50:37,268 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-10-13 15:50:37,269 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-10-13 15:50:37,585 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-10-13 15:50:42,725 - support.logger - ERROR - Step failed: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-10-13 15:50:58,254 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-10-13 15:51:00,166 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-10-13 15:51:04,209 - support.logger - INFO - Open URL http://www.gettop.us/my-account/wishlist/.......
+2022-10-13 15:51:04,211 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-10-24 18:41:08,613 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-10-24 18:48:19,351 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-10-24 18:48:54,745 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-10-24 18:48:56,243 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-10-24 18:49:00,791 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-10-24 18:49:00,793 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-10-24 18:49:01,133 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-10-24 18:49:04,804 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-10-24 18:49:07,317 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-10-24 18:49:10,234 - support.logger - INFO - Started step: <then "User can go back to previous page">
+2022-10-24 18:49:10,666 - support.logger - INFO - Started step: <then "Verify that user sees 2 product(s) in wishlist">
+2022-10-24 18:49:10,684 - support.logger - INFO - Started step: <then "Verify sees 4 logos for sharing options in wishlist">
+2022-10-24 18:49:12,022 - support.logger - INFO - Started step: <then "Verify that user can remove product(s) in wishlist">
+2022-10-24 18:49:18,155 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-10-24 18:49:31,813 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-10-24 18:49:33,208 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-10-24 18:49:39,135 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-10-24 18:49:39,138 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-10-24 18:49:39,454 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-10-24 18:49:43,320 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-10-24 18:49:45,078 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-10-24 18:49:45,144 - support.logger - ERROR - Step failed: <then "User can click the product in wishlist and go to product page">
+2022-10-24 18:50:29,485 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-10-24 18:50:30,854 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-10-24 18:50:36,427 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-10-24 18:50:36,428 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-10-24 18:50:36,770 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-10-24 18:50:40,034 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-10-24 18:50:42,010 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-10-24 18:50:46,074 - support.logger - ERROR - Step failed: <then "User can click the product in wishlist and go to product page">
+2022-10-24 18:50:54,157 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-10-24 18:50:55,524 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-10-24 18:51:02,237 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-10-24 18:51:02,238 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-10-24 18:51:02,537 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-10-24 18:51:07,182 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-10-24 18:51:09,295 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-10-24 18:51:13,325 - support.logger - ERROR - Step failed: <then "User can click the product in wishlist and go to product page">
+2022-10-24 18:51:45,407 - support.logger - INFO - Started scenario: User can add products into wishlist, see them there and remove them from wishlist.
+2022-10-24 18:51:46,723 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-10-24 18:51:53,260 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-10-24 18:51:53,264 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-10-24 18:51:53,593 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-10-24 18:51:57,022 - support.logger - INFO - Started step: <then "Verify that user can add product(s) to wishlist">
+2022-10-24 18:51:59,002 - support.logger - INFO - Started step: <then "User can click the product in wishlist and go to product page">
+2022-10-24 18:52:03,065 - support.logger - ERROR - Step failed: <then "User can click the product in wishlist and go to product page">
+2022-10-24 18:52:17,543 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-10-24 18:52:18,935 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-10-24 18:52:23,294 - support.logger - INFO - Open URL http://www.gettop.us/my-account/wishlist/.......
+2022-10-24 18:52:23,295 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-10-24 18:52:35,670 - support.logger - INFO - Started scenario: User can open empty wishlist and see "No products added to wishlist" shown.
+2022-10-24 18:52:37,028 - support.logger - INFO - Started step: <given "Open GetTop Wishlist page">
+2022-10-24 18:52:41,822 - support.logger - INFO - Open URL http://www.gettop.us/my-account/wishlist/.......
+2022-10-24 18:52:41,824 - support.logger - INFO - Started step: <then "Verify that user sees empty wishlist">
+2022-11-03 13:37:26,311 - support.logger - INFO - Started scenario: User can use price filter to select the desired price.
+2022-11-03 13:37:28,445 - support.logger - INFO - Started step: <given "Open GetTop website">
+2022-11-03 13:37:32,553 - support.logger - INFO - Open URL http://www.gettop.us.......
+2022-11-03 13:37:32,553 - support.logger - INFO - Started step: <when "User hovers over search icon on main page">
+2022-11-03 13:37:32,842 - support.logger - INFO - Started step: <when "Leaves search bar blank and clicks on magnifier icon next to it">
+2022-11-03 13:37:35,669 - support.logger - INFO - Started step: <then "Verify that user can set price with left slider">
+2022-11-03 13:37:37,504 - support.logger - INFO - Started step: <then "Verify that user can set price with right slider">
+2022-11-03 13:37:38,475 - support.logger - INFO - Started step: <then "Verify that active filter shows min and max">
+2022-11-03 13:37:38,498 - support.logger - INFO - Started step: <then "Verify that active filters reset when user clicks on min and max">

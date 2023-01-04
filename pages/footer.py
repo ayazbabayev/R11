@@ -16,7 +16,7 @@ class Footer(Page):
 
     ACCESSORIES = (By.CSS_SELECTOR, "h5")
 
-    FOOTER_BOTTOM_GROUP = (By.CSS_SELECTOR, "div[class*='footer-primary']")
+    FOOTER_BOTTOM_GROUP = (By.CSS_SELECTOR, "div[class*='footer-primary pull-left']")
 
     BOTTOM_PRODUCT_NAMES_11 = (By.CSS_SELECTOR, "a span[class*='product-title']")
     BOTTOM_PRODUCT_PRICES_12 = (By.CSS_SELECTOR, "#footer [class*='woocommerce-Price-currency']")
@@ -32,9 +32,10 @@ class Footer(Page):
 
     def user_scrolls_page_to_bottom(self):
         page_bottom = self.find_element(*self.FOOTER_BOTTOM_GROUP)
-
+        self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        # self.driver.execute_script("window.scrollTo(0, 0);")         # TO TOP
         actions = ActionChains(self.driver)
-        actions.move_to_element(page_bottom)
+        actions.move_to_element(page_bottom)     # FIREFOX WORKS DIFFERENTLY IN MOVE_TO_ELEMENT
         actions.perform()
 
     def user_sees_bestselling_latest_toprated(self):

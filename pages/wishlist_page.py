@@ -16,6 +16,7 @@ class WishlistPage(Page):
     SOCIAL_ICONS_GROUP = (By.CSS_SELECTOR, "div[class*='social-icons']")
     SHARE_LOGOS = (By.CSS_SELECTOR, "a[class*='icon button circle']")
 
+
     def open_gettop_wishlist_page(self):
         self.open_url('/my-account/wishlist/')
 

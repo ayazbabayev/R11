@@ -1,19 +1,19 @@
-# Created by ababa at 9/15/2022
+# Created by ababa at 9/15/2021
 Feature: Main page functionality
 
-  # TMTN-9
+  # TMTN-9 (C&F OK)
   Scenario: User can go to login and see login window pop up
     Given Open GetTop website
     When User clicks on account icon
     Then Verify that LOGIN window pops up over home page
 
-  # TMTN-22
+  # TMTN-22 (C&F OK)
   Scenario: User can click on GetTop logo and go to homepage
     Given Open GetTop website
     When User clicks on GetTop logo
     Then Verify that user reaches GetTop home page
 
-  # TMTN-12
+  # TMTN-12 (C&F OK)
   Scenario: User can see footer elements and interact with them
     Given Open GetTop website
     When User scrolls page to the bottom

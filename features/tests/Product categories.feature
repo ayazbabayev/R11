@@ -1,4 +1,4 @@
-# Created by ababa at 9/15/2022
+# Created by ababa at 9/15/2021
 Feature: Header / Product categories functionality
 
   Scenario: User can navigate to product category

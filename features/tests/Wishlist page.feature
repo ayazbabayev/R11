@@ -1,7 +1,7 @@
-# Created by ababa at 9/20/2022
+# Created by ababa at 9/20/2021
 Feature: Wishlist page functionalities
 
-  # TMTN-32
+  # TMTN-32 (C&F OK)
   Scenario: User can add products into wishlist, see them there and remove them from wishlist.
 
     Given Open GetTop website
@@ -15,7 +15,7 @@ Feature: Wishlist page functionalities
     And Verify that user can remove product(s) in wishlist
     And Verify that user sees empty wishlist
 
-  # TMTN-31
+  # TMTN-31 (C&F OK)
   Scenario: User can open empty wishlist and see "No products added to wishlist" shown.
     Given Open GetTop Wishlist page
     Then Verify that user sees empty wishlist

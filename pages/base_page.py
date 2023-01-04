@@ -9,7 +9,7 @@ class Page:
         self.driver = driver
         self.wait = WebDriverWait(self.driver, 5)
         # v !
-        self.base_url = 'https://www.gettop.us'
+        self.base_url = 'http://www.gettop.us'
         # ^ !
 
     def open_url(self, end_url=''):
